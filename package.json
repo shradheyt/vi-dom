@@ -1,0 +1,26 @@
+{
+  "name": "vi-dom",
+  "version": "1.0.0",
+  "description": "This a basic Virtual DOM created from scratch to learn about rendering JSX and how react works internally.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" :"webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shradheyt/vi-dom.git"
+  },
+  "author": "Shradhey Tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shradheyt/vi-dom/issues"
+  },
+  "homepage": "https://github.com/shradheyt/vi-dom#readme",
+  "dependencies": {
+    "webpack": "^4.30.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.1"
+  }
+}
